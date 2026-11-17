@@ -1,0 +1,9 @@
+{
+  "title": "Becoming an AI Engineer: AI Engineering Foundations",
+  "description": "The hub and first lab of an AI Engineering curriculum: LLM API calls, structured outputs, tool calling, a hand-written agent loop and an eval gate with negative controls, built on a fictional PDLC assistant and runnable offline with a fake model provider.",
+  "upload_type": "software",
+  "creators": [{"name": "Jadhav, Kavita", "affiliation": "K11 Software Solutions"}],
+  "license": "MIT",
+  "keywords": ["ai-engineering", "llm", "agents", "tool-calling", "structured-outputs", "prompt-engineering", "llm-evaluation", "pdlc", "claude"],
+  "notes": "Code is licensed under MIT; the written material (articles/) is licensed under CC BY 4.0. Kestrel Labs is fictional."
+}

@@ -1,0 +1,11 @@
+[project]
+name = "becoming-an-ai-engineer"
+version = "1.0.0"
+description = "Lab 1 of the AI Engineering series: LLM APIs, structured outputs, tool calling and prompt engineering, built on the Kestrel PDLC Assistant."
+requires-python = ">=3.10"
+license = "MIT"
+dependencies = ["anthropic==2.9.0", "pydantic>=2.7"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

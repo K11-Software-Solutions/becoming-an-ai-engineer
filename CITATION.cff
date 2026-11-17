@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software or its articles, please cite it as below."
+type: software
+title: "Becoming an AI Engineer: AI Engineering Foundations"
+abstract: "The hub and first lab of an AI Engineering curriculum: LLM API calls, structured outputs, tool calling, a hand-written agent loop and an eval gate with negative controls, built on a fictional PDLC assistant and runnable offline with a fake model provider."
+authors:
+  - family-names: Jadhav
+    given-names: Kavita
+    affiliation: K11 Software Solutions
+repository-code: "https://github.com/K11-Software-Solutions/becoming-an-ai-engineer"
+url: "https://github.com/K11-Software-Solutions/becoming-an-ai-engineer"
+version: "1.0.0"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - ai-engineering
+  - llm
+  - agents
+  - tool-calling
+  - structured-outputs
+  - prompt-engineering
+  - llm-evaluation
+  - pdlc
+  - claude
+# After the first Zenodo release, add the concept DOI:
+# identifiers:
+#   - type: doi
+#     value: "10.5281/zenodo.XXXXXXX"
+#     description: Concept DOI (all versions)
