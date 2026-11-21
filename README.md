@@ -18,7 +18,7 @@ lab 1 and ends as a set of agents running on EKS. See [docs/running-product.md](
 |---|---|---|---|---|
 | 1 | **AI Engineering Foundations** (this repo) | Beginner | LLM API calls, structured outputs, tool calling, a hand-written agent loop, an eval gate | ✅ available |
 | 2 | [RAG Engineering Lab](https://github.com/K11-Software-Solutions/rag-engineering-lab) | Beginner–intermediate | Retrieval over Kestrel's docs: chunking, BM25, embeddings, hybrid search, filters, cited answers, two-layer evals | ✅ available |
-| 3 | Agent SDK Lab | Intermediate | One agent built four ways: raw loop, Claude Agent SDK, OpenAI Agents SDK, LangGraph | planned |
+| 3 | [Agent SDK Lab](https://github.com/K11-Software-Solutions/agent-sdk-lab) | Intermediate | One agent built four ways: raw loop, LangGraph, OpenAI Agents SDK, Claude Agent SDK, on one eval | ✅ available |
 | 4 | MCP Server Engineering Lab | Intermediate | MCP servers for the backlog, repo and CI, with auth and tests | planned |
 | 5 | AI Coding Assistant Extensions Lab | Intermediate | Claude Code skills, plugins, hooks and slash commands; Cursor rules; Copilot instructions | planned |
 | 6 | PDLC Agents Lab | Intermediate–advanced | Agents for refinement, design review, test generation, PR review and release notes | planned |
@@ -133,7 +133,7 @@ Each engineering lab pairs with a lab from the AI Quality Engineering series.
 |---|---|
 | LLM calls and prompts (lab 1) | [LLM Model Testing Lab](https://github.com/K11-Software-Solutions/llm-model-testing-lab) |
 | RAG ([lab 2](https://github.com/K11-Software-Solutions/rag-engineering-lab)) | [Becoming an AI Quality Engineer](https://github.com/K11-Software-Solutions/becoming-ai-quality-engineer), [AI Data Quality Lab](https://github.com/K11-Software-Solutions/ai-data-quality-lab) |
-| Agents (labs 3, 6) | [Agent Testing Lab](https://github.com/K11-Software-Solutions/agent-testing-lab), [Multi-Agent Testing Lab](https://github.com/K11-Software-Solutions/multi-agent-testing-lab) |
+| Agents ([lab 3](https://github.com/K11-Software-Solutions/agent-sdk-lab), 6) | [Agent Testing Lab](https://github.com/K11-Software-Solutions/agent-testing-lab), [Multi-Agent Testing Lab](https://github.com/K11-Software-Solutions/multi-agent-testing-lab) |
 | MCP servers (lab 4) | [MCP Testing Lab](https://github.com/K11-Software-Solutions/mcp-testing-lab) |
 | Guardrails | [AI Security Testing Lab](https://github.com/K11-Software-Solutions/ai-security-testing-lab) |
 | Evals | [AI Evaluation Science Lab](https://github.com/K11-Software-Solutions/ai-evaluation-science-lab) |
