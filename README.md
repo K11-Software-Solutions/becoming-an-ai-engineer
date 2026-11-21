@@ -20,7 +20,7 @@ lab 1 and ends as a set of agents running on EKS. See [docs/running-product.md](
 | 2 | [RAG Engineering Lab](https://github.com/K11-Software-Solutions/rag-engineering-lab) | Beginner–intermediate | Retrieval over Kestrel's docs: chunking, BM25, embeddings, hybrid search, filters, cited answers, two-layer evals | ✅ available |
 | 3 | [Agent SDK Lab](https://github.com/K11-Software-Solutions/agent-sdk-lab) | Intermediate | One agent built four ways: raw loop, LangGraph, OpenAI Agents SDK, Claude Agent SDK, on one eval | ✅ available |
 | 4 | [MCP Server Engineering Lab](https://github.com/K11-Software-Solutions/mcp-server-engineering-lab) | Intermediate | An MCP server for the backlog and docs: typed tools, resources, scoped auth, contract gate, protocol tests | ✅ available |
-| 5 | AI Coding Assistant Extensions Lab | Intermediate | Claude Code skills, plugins, hooks and slash commands; Cursor rules; Copilot instructions | planned |
+| 5 | [AI Coding Assistant Extensions Lab](https://github.com/K11-Software-Solutions/coding-assistant-extensions-lab) | Intermediate | Team workflows written once for Claude Code (skills, subagent, hooks, plugin), Cursor, Copilot and AGENTS.md, linted and tested | ✅ available |
 | 6 | PDLC Agents Lab | Intermediate–advanced | Agents for refinement, design review, test generation, PR review and release notes | planned |
 | 7 | Shipping Agents Lab | Advanced | Docker images, CI/CD pipelines, eval gates and staged rollout | planned |
 | 8 | Agents on AWS Lab | Advanced | Terraform, Helm, EKS, S3, IAM/IRSA; Claude API or Bedrock | planned |
