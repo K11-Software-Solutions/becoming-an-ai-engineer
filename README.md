@@ -23,7 +23,7 @@ lab 1 and ends as a set of agents running on EKS. See [docs/running-product.md](
 | 5 | [AI Coding Assistant Extensions Lab](https://github.com/K11-Software-Solutions/coding-assistant-extensions-lab) | Intermediate | Team workflows written once for Claude Code (skills, subagent, hooks, plugin), Cursor, Copilot and AGENTS.md, linted and tested | ✅ available |
 | 6 | [PDLC Agents Lab](https://github.com/K11-Software-Solutions/pdlc-agents-lab) | Intermediate–advanced | Design review, PR review, test generation and release-notes agents, each with an objective eval, a rules baseline and mutation testing | ✅ available |
 | 7 | [Shipping Agents Lab](https://github.com/K11-Software-Solutions/shipping-agents-lab) | Advanced | A hardened container service, a network-less runner for generated tests, eval and promotion gates, shadow and canary rollout, CI/CD | ✅ available |
-| 8 | Agents on AWS Lab | Advanced | Terraform, Helm, EKS, S3, IAM/IRSA; Claude API or Bedrock | planned |
+| 8 | [Agents on AWS Lab](https://github.com/K11-Software-Solutions/agents-on-aws-lab) | Advanced | Terraform for EKS, IRSA, S3, ECR and Secrets Manager; a hardened Helm chart; mocked-AWS infra tests; kind end-to-end | ✅ available |
 | 9 | Operating Agents Lab | Advanced | Observability, cost control, scaling, scheduled agents, incident response | planned |
 | — | Capstone | Advanced | The PDLC agent platform on EKS, released with an assurance case | planned |
 | — | Appendix | Optional | Calling the same services from C#/.NET and an Angular front end | planned |
