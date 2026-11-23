@@ -25,7 +25,7 @@ lab 1 and ends as a set of agents running on EKS. See [docs/running-product.md](
 | 7 | [Shipping Agents Lab](https://github.com/K11-Software-Solutions/shipping-agents-lab) | Advanced | A hardened container service, a network-less runner for generated tests, eval and promotion gates, shadow and canary rollout, CI/CD | ✅ available |
 | 8 | [Agents on AWS Lab](https://github.com/K11-Software-Solutions/agents-on-aws-lab) | Advanced | Terraform for EKS, IRSA, S3, ECR and Secrets Manager; a hardened Helm chart; mocked-AWS infra tests; kind end-to-end | ✅ available |
 | 9 | [Operating Agents Lab](https://github.com/K11-Software-Solutions/operating-agents-lab) | Advanced | OpenTelemetry traces and metrics, retries, circuit breaking, fallbacks, budgets, SLO burn-rate alerts, scheduled agents, game days | ✅ available |
-| — | Capstone | Advanced | The PDLC agent platform on EKS, released with an assurance case | planned |
+| — | [Capstone: Kestrel PDLC Platform](https://github.com/K11-Software-Solutions/kestrel-pdlc-platform) | Advanced | Nine pinned components, integration checks, re-checkable evidence, and an assurance case: internal pilot GO, production NO-GO | ✅ available |
 | — | Appendix | Optional | Calling the same services from C#/.NET and an Angular front end | planned |
 
 [docs/skills-map.md](docs/skills-map.md) maps each skill an AI Engineer job typically asks for
